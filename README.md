@@ -70,7 +70,7 @@ Fork Bearing Document: https://cvilleschools.onshape.com/documents/07a84ca6bfb48
 
 This assignment was to put the wheel, tire, the axle, and two bearings together. I learned about mate connectors and revolute and fasten mates, which made it easier to mate the componenets together.
 
-![Sub-Assembly]()
+![Sub-Assembly](https://github.com/david-wiles6/Engineering-Capstone-Notebook/blob/master/pictures/Screenshot%202020-10-02%20at%203.05.08%20PM.png)
 
 Onshape Document: https://cvilleschools.onshape.com/documents/07a84ca6bfb48144a93a34ac/w/c54cdb9d66c7e7f71c75caa3/e/8702fb5b47958e0df2c39e0c
 
