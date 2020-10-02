@@ -66,5 +66,12 @@ Bearing/Wheel Document: https://cvilleschools.onshape.com/documents/07a84ca6bfb4
 
 Fork Bearing Document: https://cvilleschools.onshape.com/documents/07a84ca6bfb48144a93a34ac/w/c54cdb9d66c7e7f71c75caa3/e/01e75ca72050d0708f30e045
 
+### Sub-Assembly
+
+This assignment was to put the wheel, tire, the axle, and two bearings together. I learned about mate connectors and revolute and fasten mates, which made it easier to mate the componenets together.
+
+![Sub-Assembly]()
+
+Onshape Document: https://cvilleschools.onshape.com/documents/07a84ca6bfb48144a93a34ac/w/c54cdb9d66c7e7f71c75caa3/e/8702fb5b47958e0df2c39e0c
 
 ### Complete Assembly
