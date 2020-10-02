@@ -75,3 +75,9 @@ This assignment was to put the wheel, tire, the axle, and two bearings together.
 Onshape Document: https://cvilleschools.onshape.com/documents/07a84ca6bfb48144a93a34ac/w/c54cdb9d66c7e7f71c75caa3/e/8702fb5b47958e0df2c39e0c
 
 ### Complete Assembly
+
+This assignment was pretty easy after all of the Onshape experience in the previous videos. One notable thing was that I used a fasten mate to mate the axle to the collar, and the two rotated together and the hole on the collar stayed over the flat portion of the axle. I'm not sure if something special happened, but it did work on both collars, so I'm not sure. I also really like onshape's standard parts library and how it works because it makes it much easier than solidworks to actually put the parts in the assembly. All in all, it was a cool project to build this caster and learn about onshape.
+
+![Final Assembly]()
+
+Onshape Document: https://cvilleschools.onshape.com/documents/07a84ca6bfb48144a93a34ac/w/c54cdb9d66c7e7f71c75caa3/e/df7821e44ddfb195c7b9f83a
