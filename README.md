@@ -81,3 +81,12 @@ This assignment was pretty easy after all of the Onshape experience in the previ
 ![Final Assembly](https://github.com/david-wiles6/Engineering-Capstone-Notebook/blob/master/pictures/Screenshot%202020-10-02%20at%203.29.53%20PM.png)
 
 Onshape Document: https://cvilleschools.onshape.com/documents/07a84ca6bfb48144a93a34ac/w/c54cdb9d66c7e7f71c75caa3/e/df7821e44ddfb195c7b9f83a
+
+
+## Onshape Challenge 
+
+This assignment consisted of 3 parts, a square with rods coming off the sides, two spinners, and a rack to hold them all together. The rack was probably the weirdest part for me because I couldnt figure out the thin feature. What I ended up doing was extruding the line as a surface, then using the thicken function to make it a solid. This produced some weird effects that had to be fixed. One was that when I filletted the edges, the middle corner where the surface was stuck out, and I actually had to fillet that corner as well, which was weird. 
+
+![Animated Spinner](https://github.com/david-wiles6/Engineering-Capstone-Notebook/blob/master/pictures/Challenge%20_%20Assembly%201.gif)
+
+Onshape Document: https://cvilleschools.onshape.com/documents/aab081aaac488ae87e849b1c/w/aaf11e78a0736de854e19acf/e/a2e2364a02dcda34904dce5a
